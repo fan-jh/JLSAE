@@ -129,7 +129,7 @@ For a fair comparison, it is recommended to run the method multiple times or fix
 <table>
   <tr>
     <td align="center">
-      <img src="figures/Original_hsi.png" width="180"><br>
+      <img src="figures/Original_HSI.png" width="180"><br>
       <b>Original HSI</b>
     </td>
     <td align="center">
@@ -137,7 +137,7 @@ For a fair comparison, it is recommended to run the method multiple times or fix
       <b>Ground Truth</b>
     </td>
     <td align="center">
-      <img src="figures/reconstructed_background.png" width="180"><br>
+      <img src="figures/Reconstructed_background.png" width="180"><br>
       <b>Reconstructed Background</b>
     </td>
     <td align="center">
