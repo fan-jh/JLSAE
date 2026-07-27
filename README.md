@@ -133,8 +133,6 @@ The network parameters and the input noise tensor `Z` are randomly initialized f
 
 ## Detection Results
 
-## Detection Results
-
 <table>
   <tr>
     <td align="center" valign="top" width="20%">
