@@ -134,26 +134,28 @@ For a fair comparison, it is recommended to run the method multiple times or fix
 
 ## Detection Results
 
+## Detection Results
+
 <table>
   <tr>
-    <td align="center">
-      <img src="figures/Original_HSI.png" width="180"><br>
+    <td align="center" valign="top" width="20%">
+      <img src="figures/Original_HSI.png" height="190"><br>
       <b>Original HSI</b>
     </td>
-    <td align="center">
-      <img src="figures/map.png" width="180"><br>
+    <td align="center" valign="top" width="20%">
+      <img src="figures/map.png" height="190"><br>
       <b>Ground Truth</b>
     </td>
-    <td align="center">
-      <img src="figures/Reconstructed_background.png" width="180"><br>
-      <b>Reconstructed Background</b>
+    <td align="center" valign="top" width="20%">
+      <img src="figures/Reconstructed_background.png" height="190"><br>
+      <b>Reconstructed<br>Background</b>
     </td>
-    <td align="center">
-      <img src="figures/Anomaly_E.png" width="180"><br>
-      <b>Anomaly Component E</b>
+    <td align="center" valign="top" width="20%">
+      <img src="figures/Anomaly_E.png" height="190"><br>
+      <b>Anomaly<br>Component E</b>
     </td>
-    <td align="center">
-      <img src="figures/detection.png" width="180"><br>
+    <td align="center" valign="top" width="20%">
+      <img src="figures/detection.png" height="190"><br>
       <b>Detection Map</b>
     </td>
   </tr>
