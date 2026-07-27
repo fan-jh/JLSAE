@@ -53,7 +53,7 @@ JLSAE/
 The main folders are organized as follows:
 
 - `data/`: stores the hyperspectral data sets used for testing.
-- `result/`: stores the generated detection maps, AUC values, and other output results.
+- `result/`: stores the generated detection maps, AUC values, or other output results.
 - `models/`: contains the network architecture of JLSAE.
 - `utils/`: contains commonly used utility functions, such as data loading, ROC calculation, AUC calculation, and result visualization.
 - `figures/`: contains the images used in this README, including the framework and detection-result figures.
