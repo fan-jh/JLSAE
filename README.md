@@ -130,7 +130,6 @@ lam = 0.5
 
 The network parameters and the input noise tensor `Z` are randomly initialized for each run. Therefore, the detection results and AUC values may vary slightly across different runs.
 
-For a fair comparison, it is recommended to run the method multiple times or fix the random seed before training.
 
 ## Detection Results
 
