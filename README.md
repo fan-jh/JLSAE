@@ -152,4 +152,4 @@ For a fair comparison, it is recommended to run the method multiple times or fix
 </table>
 
 ## Exral information
-Please contact mailto:fanjiahui24@mails.ucas.ac.cn if you have any questions about the code implementation.
+Please contact fanjiahui24@mails.ucas.ac.cn if you have any questions about the code implementation.
