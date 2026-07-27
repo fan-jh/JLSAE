@@ -1,4 +1,4 @@
-# JLSAE
+# JLSAE: Joint Low-Rank and Sparse Autoencoder for Hyperspectral Anomaly Detection
 
 Official implementation of **JLSAE: Joint Low-Rank and Sparse Autoencoder for Hyperspectral Anomaly Detection**.
 
