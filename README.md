@@ -162,6 +162,7 @@ The network parameters and the input noise tensor `Z` are randomly initialized f
 
 Please contact `fanjiahui24@mails.ucas.ac.cn` if you have any questions about the code or its implementation.
 If you find this code helpful, please cite:
+```text
 @ARTICLE{fan2026jlsae,
   author={Fan, Jiahui and Sun, Xiaotong and Wang, Degang and Sun, Xu and Gao, Lianru},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -172,4 +173,5 @@ If you find this code helpful, please cite:
   pages={5522017-5522017},
   keywords={Ranking (statistics);Modeling;Anomaly detection;Optimization;Signal detection;Pixel;Probability;Educational institutions;Personal digital devices;Hyperspectral imaging;Autoencoder (AE);background reconstruction;hyperspectral anomaly detection (HAD);low-rank prior;model-driven deep learning;sparse prior},
   doi={10.1109/TGRS.2026.3716370}}
+```
 
