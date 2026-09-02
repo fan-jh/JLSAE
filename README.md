@@ -2,7 +2,8 @@
 
 Official implementation of **JLSAE: Joint Low-Rank and Sparse Autoencoder for Hyperspectral Anomaly Detection**.
 
-JLSAE jointly models the low-rank structure of the background and the sparse characteristics of anomalies within a unified autoencoder framework.
+JLSAE jointly models the low-rank structure of the background and the sparse characteristics of anomalies within a unified autoencoder framework. It can be viewed as a further development of Auto-AD and DeepLR.
+
 
 This repository provides a simple implementation for reproducing and comparing hyperspectral anomaly detection methods.
 
